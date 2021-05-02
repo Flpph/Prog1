@@ -87,7 +87,7 @@ list<Item>& erase5(list<Item>& l, int iid)
 int main()
 {
 	vector<Item> vec;
-	ifstream ifs ("21drill.txt");
+	ifstream ifs ("items.txt");
 	string na;
 	int ii;
 	double va;
